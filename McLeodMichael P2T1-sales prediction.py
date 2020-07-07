@@ -11,3 +11,4 @@ profit = total_sales * 0.23
 
 #Diusplay profit.
 print('profit is $', format(profit, ',.2f'))
+
