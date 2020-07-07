@@ -24,3 +24,4 @@ def main():
     print('Result of numbers: ', results)
 
 main()
+
